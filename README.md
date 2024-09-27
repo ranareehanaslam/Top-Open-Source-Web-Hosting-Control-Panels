@@ -6,16 +6,16 @@ Welcome to a curated list of the best **free open-source web hosting control pan
 
 | Logo  | Name            | Server Types        | Main Features                                      | Documentation           |
 |-------|-----------------|---------------------|----------------------------------------------------|-------------------------|
-| ![CyberPanel](https://img.icons8.com/color/48/000000/open-panel.png) | [CyberPanel](https://cyberpanel.net) | OpenLiteSpeed, LiteSpeed | WordPress Manager, Docker Support, Free SSL, Email, DNS | [Docs](https://docs.cyberpanel.net/) |
+| ![CyberPanel](https://cyberpanel.net/wp-content/uploads/2024/01/logo.svg) | [CyberPanel](https://cyberpanel.net) | OpenLiteSpeed, LiteSpeed | WordPress Manager, Docker Support, Free SSL, Email, DNS | [Docs](https://docs.cyberpanel.net/) |
 | ![VestaCP](https://img.icons8.com/color/48/000000/server.png) | [VestaCP](https://vestacp.com) | Apache, Nginx           | Simple, Lightweight, Backup, Monitoring, Firewall         | [Docs](https://vestacp.com/docs/) |
 | ![ISPConfig](https://img.icons8.com/color/48/000000/data-configuration.png) | [ISPConfig](https://ispconfig.org) | Apache, Nginx           | Multi-Server, DNS, FTP, Database, Email Management        | [Docs](https://ispconfig.org/documentation/) |
 | ![Froxlor](https://img.icons8.com/color/48/000000/data-backup.png) | [Froxlor](https://froxlor.org) | Apache, Nginx, Lighttpd | Lightweight, SSL, FTP, DNS, Email                          | [Docs](https://froxlor.readthedocs.io/) |
-| ![Ajenti](https://img.icons8.com/color/48/000000/cloud-server.png) | [Ajenti](https://ajenti.org) | Apache, Nginx           | Minimal, Modular Design, Python-based, Plugins            | [Docs](https://ajenti.org/docs/) |
+| ![Ajenti](https://raw.githubusercontent.com/ajenti/ajenti/master/docs/img/Logo.png) | [Ajenti](https://ajenti.org) | Apache, Nginx           | Minimal, Modular Design, Python-based, Plugins            | [Docs](https://ajenti.org/docs/) |
 | ![CentOS Web Panel](https://img.icons8.com/color/48/000000/centos.png) | [CentOS Web Panel](http://centos-webpanel.com) | Apache, Nginx, Varnish   | Backup Tools, Firewall, Easy Server Management, MySQL     | [Docs](http://wiki.centos-webpanel.com/) |
 | ![Webmin](https://img.icons8.com/color/48/000000/web-design.png) | [Webmin](https://webmin.com) | Apache, Nginx           | Modular System, DNS, FTP, Databases, Web-based Management | [Docs](http://www.webmin.com/docs.html) |
 | ![HestiaCP](https://img.icons8.com/color/48/000000/network.png) | [HestiaCP](https://hestiacp.com) | Apache, Nginx           | Modern UI, Lightweight, Multi-Level Security              | [Docs](https://docs.hestiacp.com/) |
 | ![aaPanel](https://img.icons8.com/color/48/000000/control-panel.png) | [aaPanel](https://aapanel.com) | Apache, Nginx           | One-Click App Installs, SSL, Docker Support               | [Docs](https://aapanel.com/docs.html) |
-| ![Virtualmin](https://img.icons8.com/color/48/000000/data.png) | [Virtualmin](https://virtualmin.com) | Apache, Nginx           | Webmin Integration, Role-Based Access, Multi-Server       | [Docs](https://virtualmin.com/documentation/) |
+| ![Virtualmin](https://i0.wp.com/www.virtualmin.com/wp-content/uploads/2024/04/virtualmin-product-logo.png) | [Virtualmin](https://virtualmin.com) | Apache, Nginx           | Webmin Integration, Role-Based Access, Multi-Server       | [Docs](https://virtualmin.com/documentation/) |
 | ![CloudPanel](https://img.icons8.com/color/48/000000/cloud.png) | [CloudPanel](https://cloudpanel.io) | Nginx                   | Cloud-Focused, Docker Integration, One-Click Apps         | [Docs](https://cloudpanel.io/docs/) |
 | ![Sentora](https://img.icons8.com/color/48/000000/domain.png) | [Sentora](http://www.sentora.org) | Apache, PHP             | Lightweight, Simple, Extendable via Modules               | [Docs](http://docs.sentora.org/) |
 
